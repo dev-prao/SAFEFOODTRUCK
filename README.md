@@ -17,19 +17,17 @@
 
 ## 팀원 소개
 
-![image](https://github.com/user-attachments/assets/bec65517-51c7-4d45-a17d-8dbe609e2375)
-
-- 박창호 `팀장`, `Backend`
+- 박창호 `팀장`, `Infra`, `Backend`
+    - EC2, Docker, Jenkins, Ngnix 이용한 CI/CD pipeline 구축
+    - Spring Security와 JWT를 활용하여 인증 및 인가 구현
     - JPA, QueryDSL을 활용한 쿼리 작성 및 성능 최적화
-    - MySQL, Redis 등 DB관리
     - 점포, 주문, 메뉴, 리뷰 API 설계
     - 노션 및 Jira 일정 관리
 - 장준석 `Backend`
-    - Spring Security와 JWT를 활용하여 인증 및 인가 구현
     - 소셜 로그인 구현(OAuth)
     - SSE를 활용한 알림 구현
     - 회원, 찜, 알림, 스케줄 API 설계
-- 조용훈 `Infra`
+- 조용훈 `Infra`, `AI`
     - EC2, Docker, Jenkins, Ngnix 이용한 CI/CD pipeline 구축
     - gemini API, karlo API를 활용한 AI 기능(챗봇, 로고 제작) 개발
 - 정다운 `Frontend`
